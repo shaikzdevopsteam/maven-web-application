@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.204.98.249:9980/devopsclasses/repository/telegram-release/</url>
+	      <name>Telegram Releases Nexus Repository</name>
+	      <url>http://3.6.90.182:8081/repository/telegram-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.98.249:9980/devopsclasses/repository/telegram-snapshot/</url>
+	      <name>Telegram Snapshot Nexus Repository </name>
+	      <url>http://3.6.90.182:8081/repository/Telegram-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
